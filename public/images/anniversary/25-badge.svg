@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" fill="white" stroke="#E7C85A" stroke-width="4"/>
+  <circle cx="60" cy="60" r="46" fill="#111111"/>
+  <circle cx="60" cy="60" r="38" fill="none" stroke="#C8941D" stroke-width="2" stroke-dasharray="4 6"/>
+  <text x="60" y="61" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="800" fill="#F8E7AE">25</text>
+  <text x="60" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">YEARS</text>
+</svg>
